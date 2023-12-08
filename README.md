@@ -2,8 +2,8 @@
 
 Kayıt programı, JAVA dilinde yazılmış bir "Form" uygulamasıdır.
 
-Genel olarak "DersMenü" classındaki csv'ye kayıt edilen derslerin, "ÖğrenciMenü" classında öğrencinin girdiği veriler ve seçmek istediği dersi "Combobox"da 
-daha önceden csv'ye kayıt edilen derslerin görünüp seçim yapması ve ardından kayıt yapmasını ve kayıt ederken de "DersMenü" classında kayıt edilen verilerin çekilip "Combobox" kullanılarak seçilip kayıt etmesini sağlayan java programıdır. 
+Genel olarak "DersMenü" classındaki csv'ye kayıt edilen derslerin, "ÖğrenciMenü" classında öğrencinin girdiği bilgiler ve seçmek istediği dersi "Combobox"da 
+daha önceden csv'ye kayıt edilen derslerin görünüp seçim yapmasıyla ve ardından kayıt yapması ve kayıt ederken de "DersMenü" classında kayıt edilen verilerin çekilip "Combobox" kullanılarak seçilip kayıt etmesini sağlar. Kayıt yaparken de "Ogrenci" ve "Ders" sınıflarını kullanır. Bu sınıfların amacı, program içinde öğrenci ve ders bilgilerini daha düzenli ve programatik bir şekilde yönetmek ve bu bilgileri dışa aktarmak (CSV formatında) olarak özetlenebilir. BU proje de bu hikayeyi uygulayan bir java programıdır. 
 
 ----------------
 -AnaMenü sınıfı, programın ana menüsünü temsil eder ve kullanıcıya ders oluşturma veya öğrenci kaydı yapma seçenekleri sunar. Kullanıcı, bu menüler aracılığıyla öğrenci veya ders bilgilerini girebilir. 
