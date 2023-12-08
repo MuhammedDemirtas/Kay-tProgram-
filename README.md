@@ -9,7 +9,11 @@ daha önceden csv'ye kayıt edilen derslerin görünüp seçim yapmasıyla ve ar
 
 - Uygulamanın Kullanımında dikkat edilmesi gerekenler
 
-- Öğrenci kayıt yaparken, bölümü doğru girilmeli (ders kayıtta hangi bölümle kayıt yapılmışsa o bölüm) ve ardından enter a basıp derslerin gelmesini sağlamalı daha sonra kaydet demelisiniz
+- Öğrenci kayıt yaparken, bölümü doğru girilmeli (ders kayıtta hangi bölümle kayıt yapılmışsa o bölüm) ve ardından enter a basıp derslerin gelmesini sağlamalı daha sonra kaydet demelisiniz.
+
+----------------------
+
+- Anamenü'yü açtınız ve istediğiniz seçimi yapmanız için butanlar mevcut o butonlara tıklayarak yapabilirsiniz. Ardından seçtiğiniz kayıtta ana menüye dönmek için ayrı buton mevcuttur. Son olarak kayıt et butonları da bütün verileri girdikten sonra belirtilen csv dosyasına kayıt sağlayabilirsiniz. Csv den de kontrol sağlayabilirsiniz.
 
 ----------------------
 -AnaMenü sınıfı, programın ana menüsünü temsil eder ve kullanıcıya ders oluşturma veya öğrenci kaydı yapma seçenekleri sunar. Kullanıcı, bu menüler aracılığıyla öğrenci veya ders bilgilerini girebilir. 
