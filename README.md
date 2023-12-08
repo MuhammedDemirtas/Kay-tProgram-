@@ -7,7 +7,7 @@ daha önceden csv'ye kayıt edilen derslerin görünüp seçim yapmasıyla ve ar
 
 ----------------
 
-Uygulamanın Kullanımında dikkat edilmesi gerekenler =
+-Uygulamanın Kullanımında dikkat edilmesi gerekenler-
 
 - Öğrenci kayıt yaparken, bölümü doğru girilmeli (ders kayıtta hangi bölümle kayıt yapılmışsa o bölüm) ve ardından enter a basıp derslerin gelmesini sağlamalı daha sonra kaydet demelisiniz
 
